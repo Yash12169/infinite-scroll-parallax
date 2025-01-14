@@ -1,31 +1,31 @@
 const projectData = [
   {
-    title: "this",
+    title: "White Death",
     image: "./assets/guillaume-auceps-r13vz3oZDTE-unsplash.jpg",
     isAlternate: false,
   },
   {
-    title: "That",
+    title: "The Looming Sunset",
     image: "./assets/ingmar-h-Z69Qu7EfnfY-unsplash.jpg",
     isAlternate: true,
   },
   {
-    title: "fuck",
+    title: "True Independence",
     image: "./assets/lukasz-rawa-aOs83qfi6_Y-unsplash.jpg",
     isAlternate: false,
   },
   {
-    title: "shit",
+    title: "Bonfire",
     image: "./assets/marko-horvat-f9bkzNQyylg-unsplash.jpg",
     isAlternate: true,
   },
   {
-    title: "Motherfucker",
+    title: "Consumer of All",
     image: "./assets/maxim-tajer-x3S1aGQNgro-unsplash.jpg",
     isAlternate: false,
   },
   {
-    title: "AArgh damn",
+    title: "The Fear Within",
     image: "./assets/mohamed-nohassi-UKX_DwNKXSA-unsplash.jpg",
     isAlternate: true,
   },
